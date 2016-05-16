@@ -1,0 +1,6 @@
+To run code : 
+# make clean
+# make
+# make SF 
+or 
+#./SFwhguan T1whguan.txt
